@@ -1,4 +1,4 @@
-# Bonsai Foundry Template
+# zkVM Foundry Template
 
 > **Note: This software is not production ready. Do not use in production.**
 
