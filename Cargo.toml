@@ -1,5 +1,6 @@
 [workspace]
 members = ["methods", "relay"]
+exclude = ["methods/guest"]
 resolver = "2"
 
 [workspace.dependencies]
