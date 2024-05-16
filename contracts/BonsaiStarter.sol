@@ -14,7 +14,7 @@
 //
 // SPDX-License-Identifier: Apache-2.0
 
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.23;
 
 import {IBonsaiRelay} from "bonsai/IBonsaiRelay.sol";
 import {BonsaiCallbackReceiver} from "bonsai/BonsaiCallbackReceiver.sol";
